@@ -109,7 +109,7 @@ public class TDA_Racional {
 
                     System.out.print(numerador + "/" + denominador);
 
-                    // 🔥 ajuste de sinal antes
+                    
                     if (denominador < 0) {
                         numerador *= -1;
                         denominador *= -1;
